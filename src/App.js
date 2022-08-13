@@ -1,10 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
+
+
+import MuiTypo from './components/Typography/MuiTypo';
 
 function App() {
   return (
     <div className="App">
-     
+     <MuiTypo />
     </div>
   );
 }
